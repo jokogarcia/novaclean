@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/www/code/novaclean/app/Http/Controllers/PagesController.php</file>
+            <file>file:/C:/www/code/novaclean/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/C:/www/code/novaclean/resources/views/users/index.blade.php</file>
+            <file>file:/C:/www/code/novaclean/app/User.php</file>
+            <file>file:/C:/www/code/novaclean/resources/views/layout.blade.php</file>
+            <file>file:/C:/www/code/novaclean/resources/views/welcome.blade.php</file>
+            <file>file:/C:/www/code/novaclean/routes/web.php</file>
+            <file>file:/C:/www/code/novaclean/app/Http/Controllers/UsersController.php</file>
+            <file>file:/C:/www/code/novaclean/public/css/custom.css</file>
+            <file>file:/C:/www/code/novaclean/resources/views/users/create.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
