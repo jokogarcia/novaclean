@@ -1030,7 +1030,7 @@ footer::after {
 .curriculumform input,select,button{
    color:#000;
 }
-.curriculumform input_warning{
+.curriculumform.input_warning{
     border-color:red;
 }
 .curriculumform h3{
@@ -1062,4 +1062,17 @@ footer::after {
     width:auto;
     display: block;
     float:none
+}
+.listTable{
+    width: -webkit-fill-available;
+    border-width: medium;
+    padding: 15px;
+    border: 1px solid black;
+}
+.listable a:link, a:visited{
+    color:blue !important; 
+}
+.listTable th{
+    background-color: darkgray;
+    color:white;
 }

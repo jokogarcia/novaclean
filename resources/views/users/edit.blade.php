@@ -17,10 +17,10 @@
         <p><input type="submit" value="Enviar cambios"/>
                 
     </form>
-    <form method="POST" action="users/{{$user-id}}">
+    <form method="POST" action="users/{{$user->id}}">
         {{ method_field('DELETE')}}
         {{ csrf_field() }}
-        <button type="submit" value="Eliminar usuario!"/>
+        <p><input class="input_warning" type="submit" value="Eliminar usuario!"/></p>
     </form>
     
 @endsection
